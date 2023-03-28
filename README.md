@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá, eu sou o Fabricio Del Frari!
+Sou estudante de programação há um ano e meio e trabalho no setor de desenvolvimento do Grupo Telecon há 10 meses.
 
-<!--
-**fabriciodelfrari/fabriciodelfrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Minhas habilidades
+Linguagens de programação: C# e Visual Basic 6.
+Frameworks: .NET Core.
+Banco de dados: SQL Server, MongoDB.
+Outros conhecimentos: SOLID, DDD, Clean Architecture, AzureDevOps, Git e Testes de Software.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Contato
+[Linkedin](www.linkedin.com/in/fdfcosta)
+Email: devcode.fabricio@gmail.com
