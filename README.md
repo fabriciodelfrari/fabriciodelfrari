@@ -9,4 +9,6 @@ Outros conhecimentos: SOLID, DDD, Clean Architecture, AzureDevOps, Git e Testes 
 
 ### Contato
 [Linkedin](www.linkedin.com/in/fdfcosta)
+
+
 Email: devcode.fabricio@gmail.com
