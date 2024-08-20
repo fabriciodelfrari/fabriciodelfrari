@@ -11,7 +11,7 @@ Banco de dados: SQL Server, MongoDB.
 Outros conhecimentos: SOLID, DDD, Clean Architecture, AzureDevOps, Git e Testes de Software.
 
 ### Contato
-[Linkedin](www.linkedin.com/in/fdfcosta)
+[Linkedin](https://www.linkedin.com/in/fdfcosta)
 
 
 Email: devcode.fabricio@gmail.com
